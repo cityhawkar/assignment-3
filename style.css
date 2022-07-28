@@ -1,0 +1,7 @@
+body{
+    text-transform: capitalize;
+}
+.slider-d-block{
+    
+    filter: brightness(60%);
+}
